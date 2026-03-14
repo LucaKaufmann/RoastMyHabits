@@ -1,0 +1,12 @@
+.env
+
+# Swift / Xcode
+.DS_Store
+.build/
+DerivedData/
+Packages/
+Package.resolved
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
