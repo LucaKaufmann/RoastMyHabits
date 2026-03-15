@@ -4,8 +4,14 @@
 .DS_Store
 .build/
 DerivedData/
+Derived/
 Packages/
 Package.resolved
+Tuist/Dependencies/
+*.xcodeproj
+*.xcworkspace
+!*.xcworkspace/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
 *.xcworkspace/xcuserdata/
 *.xcodeproj/project.xcworkspace/xcuserdata/
 *.xcuserdatad/
