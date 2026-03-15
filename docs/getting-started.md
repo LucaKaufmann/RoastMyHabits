@@ -38,7 +38,7 @@ Run the Swift Testing suite:
 ```bash
 xcodebuild test \
   -workspace RoastMyHabits.xcworkspace \
-  -scheme RoastMyHabitsTests \
+  -scheme RoastMyHabits \
   -destination "platform=iOS Simulator,name=iPhone 16"
 ```
 

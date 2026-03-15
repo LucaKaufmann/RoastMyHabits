@@ -9,7 +9,7 @@ RoastMyHabits is an iOS 18+ SwiftUI app for tracking up to five habits and gener
 ```bash
 tuist generate --no-open
 xcodebuild build -workspace RoastMyHabits.xcworkspace -scheme RoastMyHabits -destination "platform=iOS Simulator,name=iPhone 16"
-xcodebuild test -workspace RoastMyHabits.xcworkspace -scheme RoastMyHabitsTests -destination "platform=iOS Simulator,name=iPhone 16"
+xcodebuild test -workspace RoastMyHabits.xcworkspace -scheme RoastMyHabits -destination "platform=iOS Simulator,name=iPhone 16"
 ```
 
 ## Architecture Rules
